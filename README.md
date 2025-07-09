@@ -1,6 +1,6 @@
 # Data Engineering for Beginners: Learn SQL, Python & Spark
 
-![Certificate](UC-833165e0-41ce-4a15-b3f0-dd5e5f9fe7fe.jpg)
+
 
 ## 📜 Course Overview
 
