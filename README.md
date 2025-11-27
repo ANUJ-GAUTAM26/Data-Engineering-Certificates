@@ -1,38 +1,84 @@
-# Data Engineering for Beginners: Learn SQL, Python & Spark
+Data Engineering Certificates
 
+This repository consolidates my verified certifications in SQL, Python, and Data Engineering, along with supporting notes and projects.
 
+Kaggle Certifications
+Intro to SQL
 
-## 📜 Course Overview
+Learn SQL for working with databases on Google BigQuery.
+Duration: 3 hours
+Instructors: Rachael Tatman, Alexis Cook
 
-This repository contains notes, code snippets, and personal projects completed as part of the **"Data Engineering for Beginners: Learn SQL, Python & Spark"** course on Udemy.
+Certificate Link:
+https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-intro-to-sql-certificate.png
 
-**Course Duration:** 56 hours  
-**Completion Date:** July 9, 2025  
-**Instructors:** Durga Viswanatha Raju Gadiraju, Pratik Kumar, Phani Bhushan Bozzam  
+Key Topics
 
-## 🚀 Skills Gained
+SQL workflow with BigQuery
 
-- SQL fundamentals and querying techniques  
-- Python for data manipulation  
-- Data Engineering concepts  
-- Working with Apache Spark using PySpark  
-- Building basic ETL pipelines  
+SELECT, FROM, WHERE
 
-## 📂 Contents
+GROUP BY, HAVING, COUNT
 
-- `SQL/` — Practice queries and schema setups  
-- `Python/` — Scripts and exercises in Python  
-- `PySpark/` — ETL logic and transformation scripts using PySpark  
-- `Projects/` — Small projects and case studies
+ORDER BY
 
-## 🏁 Next Steps
+AS and WITH
 
-I am currently extending this learning by exploring:
-- Apache Airflow for workflow orchestration  
-- Docker for containerized deployment  
-- Cloud tools (GCP, AWS) for real-world pipelines  
+JOIN operations
 
----
+Builds on: Python
+Prepares for: Advanced SQL
 
-🔗 [View Certificate on Udemy](https://ude.my/UC-833165e0-41ce-4a15-b3f0-dd5e5f9fe7fe)
+Advanced SQL
 
+Advanced querying techniques, analytic functions, and query optimisation.
+Duration: 4 hours
+Instructor: Alexis Cook
+
+Certificate Link:
+https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-advanced-sql-certificate.png
+
+Key Topics
+
+JOINs and UNIONs
+
+Analytic functions (window functions)
+
+Nested and repeated data in BigQuery
+
+Writing efficient queries
+
+Builds on: Intro to SQL
+
+Udemy Certification
+Data Engineering for Beginners: Learn SQL, Python & Spark
+
+Duration: 56 hours
+Completed: July 9, 2025
+Instructors: Durga Viswanatha Raju Gadiraju, Pratik Kumar, Phani Bhushan Bozzam
+
+Certificate Link:
+https://ude.my/UC-833165e0-41ce-4a15-b3f0-dd5e5f9fe7fe
+Repository Contents
+
+kaggle/ – Kaggle certificates
+
+udemy/ – Udemy certificate
+
+SQL/ – SQL practice work
+
+Python/ – Python exercises
+
+PySpark/ – Spark and ETL scripts
+
+Projects/ – Data engineering mini-projects
+
+Current Development Focus
+
+Airflow for workflow orchestration
+
+Docker for reproducible environments
+
+AWS and GCP for deployable pipelines
+
+YouTube analytics ETL pipeline
