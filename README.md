@@ -59,19 +59,24 @@ Duration: 56 hours
 Completed: July 9, 2025
 
 📂 Repository Structure
-Data-Engineering-Certificates/
-│
-├── kaggle/
-│   ├── kaggle-intro-to-sql-certificate.png
-│   └── kaggle-advanced-sql-certificate.png
-│
-├── udemy/
-│   └── DATA CERTIFICATE.pdf
-│
-├── SQL/
-├── Python/
-├── PySpark/
-└── Projects/
+
+kaggle/
+
+intro-to-sql.png
+
+advanced-sql.png
+
+udemy/
+
+data-engineering-certificate.pdf
+
+SQL/ – SQL practice queries
+
+Python/ – Python exercises and scripts
+
+PySpark/ – Spark ETL and transformations
+
+Projects/ – Mini data engineering projects
 
 🛠️ Current Focus
 
