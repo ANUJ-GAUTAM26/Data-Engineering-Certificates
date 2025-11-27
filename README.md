@@ -9,7 +9,7 @@ This repository showcases my verified certifications in SQL, Python, and Data En
 Learn SQL for working with databases using Google BigQuery.
 
 🔗 Certificate:
-https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-intro-to-sql-certificate.png
+[https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-intro-to-sql-certificate.png](https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/dc16955459e4e55aa3dafb409a7c7b01b1c3bfc5/kaggle-intro-to-sql-certificate.pdf)
 
 Key Topics:
 
@@ -33,7 +33,7 @@ JOIN operations
 Advanced querying techniques, analytic functions, and BigQuery optimization.
 
 🔗 Certificate:
-https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-advanced-sql-certificate.png
+[https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-advanced-sql-certificate.png](https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/dc16955459e4e55aa3dafb409a7c7b01b1c3bfc5/kaggle-advanced-sql-certificate.pdf)
 
 Key Topics:
 
