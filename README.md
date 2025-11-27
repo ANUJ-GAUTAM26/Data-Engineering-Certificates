@@ -3,6 +3,7 @@
 This repository showcases my verified certifications in SQL, Python, and Data Engineering, along with supporting work in SQL, Python, PySpark, and ETL development.
 
 🏆 Kaggle Certifications
+
 🟦 Intro to SQL
 
 Learn SQL for working with databases using Google BigQuery.
@@ -10,7 +11,7 @@ Learn SQL for working with databases using Google BigQuery.
 🔗 Certificate:
 https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-intro-to-sql-certificate.png
 
-Key Topics
+Key Topics:
 
 SQL workflow with BigQuery
 
@@ -34,7 +35,7 @@ Advanced querying techniques, analytic functions, and BigQuery optimization.
 🔗 Certificate:
 https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-advanced-sql-certificate.png
 
-Key Topics
+Key Topics:
 
 JOINs and UNIONs
 
