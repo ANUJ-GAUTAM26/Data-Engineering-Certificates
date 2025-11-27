@@ -1,15 +1,13 @@
-Data Engineering Certificates
+📘 Data Engineering Certificates
 
-This repository consolidates my verified certifications in SQL, Python, and Data Engineering, along with supporting notes and projects.
+This repository showcases my verified certifications in SQL, Python, and Data Engineering, along with supporting work in SQL, Python, PySpark, and ETL development.
 
-Kaggle Certifications
-Intro to SQL
+🏆 Kaggle Certifications
+🟦 Intro to SQL
 
-Learn SQL for working with databases on Google BigQuery.
-Duration: 3 hours
-Instructors: Rachael Tatman, Alexis Cook
+Learn SQL for working with databases using Google BigQuery.
 
-Certificate Link:
+🔗 Certificate:
 https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-intro-to-sql-certificate.png
 
 Key Topics
@@ -26,59 +24,64 @@ AS and WITH
 
 JOIN operations
 
-Builds on: Python
-Prepares for: Advanced SQL
+🪜 Builds on: Python
+🎯 Prepares for: Advanced SQL
 
-Advanced SQL
+🟩 Advanced SQL
 
-Advanced querying techniques, analytic functions, and query optimisation.
-Duration: 4 hours
-Instructor: Alexis Cook
+Advanced querying techniques, analytic functions, and BigQuery optimization.
 
-Certificate Link:
+🔗 Certificate:
 https://github.com/ANUJ-GAUTAM26/Data-Engineering-Certificates/blob/main/kaggle-advanced-sql-certificate.png
 
 Key Topics
 
 JOINs and UNIONs
 
-Analytic functions (window functions)
+Analytic / window functions
 
-Nested and repeated data in BigQuery
+Nested and repeated data
 
-Writing efficient queries
+Efficient query design
 
-Builds on: Intro to SQL
+🪜 Builds on: Intro to SQL
 
-Udemy Certification
-Data Engineering for Beginners: Learn SQL, Python & Spark
+🎓 Udemy Certification
+🔶 Data Engineering for Beginners: Learn SQL, Python & Spark
+
+Comprehensive introduction to SQL, Python, Data Engineering concepts, and PySpark.
+
+🔗 Certificate:
+https://ude.my/UC-833165e0-41ce-4a15-b3f0-dd5e5f9fe7fe
 
 Duration: 56 hours
 Completed: July 9, 2025
-Instructors: Durga Viswanatha Raju Gadiraju, Pratik Kumar, Phani Bhushan Bozzam
 
-Certificate Link:
-https://ude.my/UC-833165e0-41ce-4a15-b3f0-dd5e5f9fe7fe
-Repository Contents
+📂 Repository Structure
+Data-Engineering-Certificates/
+│
+├── kaggle/
+│   ├── kaggle-intro-to-sql-certificate.png
+│   └── kaggle-advanced-sql-certificate.png
+│
+├── udemy/
+│   └── DATA CERTIFICATE.pdf
+│
+├── SQL/
+├── Python/
+├── PySpark/
+└── Projects/
 
-kaggle/ – Kaggle certificates
+🛠️ Current Focus
 
-udemy/ – Udemy certificate
+Apache Airflow
 
-SQL/ – SQL practice work
+Docker
 
-Python/ – Python exercises
+AWS & GCP cloud pipelines
 
-PySpark/ – Spark and ETL scripts
+YouTube analytics ETL project
 
-Projects/ – Data engineering mini-projects
+🎯 Goal
 
-Current Development Focus
-
-Airflow for workflow orchestration
-
-Docker for reproducible environments
-
-AWS and GCP for deployable pipelines
-
-YouTube analytics ETL pipeline
+Strengthen practical Data Engineering skills and build deployable, production-style pipelines.
